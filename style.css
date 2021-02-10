@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+.main {
+    display: flex;
+    justify-content: center;
+    width: 1140px;
+    height: 457;
+    margin: 0 auto; 
+    font-family: 'Acme', sans-serif; 
+    font-size: 20px;
+}
+.colum {
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    
+  
+}
+.image {
+  width: 80px;
+  height: 80px;
+  background-color: #ffae00;
+  border-radius: 20px 0;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+.body {
+   
+  background-color: #1d1c1cfd;
+  color: #ffffff;
+}
+  .tittle {
+    justify-content: center;
+    display: flex;
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .images{
+  
+  
+  display: flex;
+  justify-content: center;
+  margin: 50px 56px;
+  }
+  .image1{
+    justify-content: center;
+    display: flex;
+    margin: 0px 0px 0px 0px;}
+.title{
+  height: 14px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Acme', sans-serif; 
+  font-size: 16px;
+  
+  
+}
+  .line {
+
+  margin: 20px 0px 20px 0px;
+  border: none;
+  height: 2px;
+  color:#ffffff;
+  background-color:#ffffff;
+  width: 223px;}
+
+  .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 89px;
+  }
+    
+.tr{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}
+
+
+.icon{
+  height:36px ;
+  width:24px ;
+  
+}
+
+.ima1{
+  margin: 0px 10px 0px 10px;
+}
+.ima2{
+  margin: 0px 0px 0px 10px;
+}
